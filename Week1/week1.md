@@ -28,7 +28,7 @@
 
    - 프로그램 가독성 높이기 : 토큰 사이에는 공백 문자를 여러개 입력해도 하나로 간주한다. 
 
-     
+    
 
      function fact(n) {if(n<=1)return n;return n*fact(n-1);} 	// (x) 가독성이 낮음 
 
